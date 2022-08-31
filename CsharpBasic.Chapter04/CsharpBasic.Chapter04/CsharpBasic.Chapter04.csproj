@@ -49,6 +49,8 @@
     <Compile Include="Examples\Ex004.cs" />
     <Compile Include="Examples\Ex005.cs" />
     <Compile Include="Examples\Ex006.cs" />
+    <Compile Include="Examples\Ex007.cs" />
+    <Compile Include="Examples\Ex009.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Works\Work01.cs" />
